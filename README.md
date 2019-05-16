@@ -1,7 +1,7 @@
 # Parking-Detection-System
 Parking spot detection system using openCV image processing and computer vision in python3.
 
-I have use Python3 and OpenCV in this project.
+I have used Python3 and OpenCV in this project.
 The YAML Library is used to plot the X & Y cordinates on the video.
 
 To run this program use the python/main.py and for X & Y cordinates use dataset/final.yml
